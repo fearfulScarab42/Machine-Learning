@@ -33,14 +33,14 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>Matemáticas</td>
     <td>Álgebra Lineal</td>
     <td>Espacios vectoriales, eigenvalores</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Algebra_Lineal)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Algebra_Lineal">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#ebf5fb">
     <td>I</td>
     <td>Matemáticas</td>
     <td>Probabilidad en Python</td>
     <td>Distribuciones, Monte Carlo</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/probabilidad%20en%20Python)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/probabilidad%20en%20Python">🔗 Repo</a></td>
   </tr>
 
   <!-- NIVEL II -->
@@ -49,7 +49,7 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>Estadística</td>
     <td>Estadística Inferencial</td>
     <td>Estimación, pruebas de hipótesis</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Estadistica%20Inferencial)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Estadistica%20Inferencial">🔗 Repo</a></td>
   </tr>
 
   <!-- NIVEL III -->
@@ -58,14 +58,14 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>Dinámica</td>
     <td>Stochastic Calculus</td>
     <td>Movimiento Browniano, SDEs, lema de Itô</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Stochastic%20Calculus)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Stochastic%20Calculus">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#fcf3cf">
     <td>III</td>
     <td>Dinámica</td>
     <td>Series de Tiempo</td>
     <td>ARIMA, GARCH, forecasting</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Series%20de%20tiempo)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Series%20de%20tiempo">🔗 Repo</a></td>
   </tr>
 
   <!-- NIVEL IV -->
@@ -74,28 +74,28 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>Datos</td>
     <td>SQL</td>
     <td>MySQL, joins, índices, procedimientos</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/SQL)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/SQL">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#f5cba7">
     <td>IV</td>
     <td>Datos</td>
     <td>Ciencia de Datos</td>
     <td>MongoDB, NoSQL, agregaciones</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Ciencia-de-Datos)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Ciencia-de-Datos">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#f5cba7">
     <td>IV</td>
     <td>Datos</td>
     <td>Data Manipulation</td>
     <td>Pandas avanzado, limpieza, merges</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Data%20Manipulation)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Data%20Manipulation">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#f5cba7">
     <td>IV</td>
     <td>Datos</td>
     <td>Streamlit</td>
     <td>Dashboards, despliegue de modelos</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Streamlit)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Streamlit">🔗 Repo</a></td>
   </tr>
 
   <!-- NIVEL V -->
@@ -104,21 +104,21 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>Machine Learning</td>
     <td>Curso Machine Learning</td>
     <td>Regresión, clasificación, clustering</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Curso%20Machine%20Learning)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Curso%20Machine%20Learning">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#d2b4de">
     <td>V</td>
     <td>Machine Learning</td>
     <td>Portfolio Theory</td>
     <td>Markowitz, Sharpe, optimización</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Portfolio%20Theory)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Portfolio%20Theory">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#d2b4de">
     <td>V</td>
     <td>Machine Learning</td>
     <td>Artificial Intelligence</td>
     <td>Fundamentos IA, algoritmos, lógica</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Artificial%20intelligence)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Artificial%20intelligence">🔗 Repo</a></td>
   </tr>
 
   <!-- NIVEL VI -->
@@ -127,14 +127,14 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>NLP</td>
     <td>NLP</td>
     <td>Embeddings, transformers, BERT</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/NLP)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/NLP">🔗 Repo</a></td>
   </tr>
   <tr style="background-color:#aed6f1">
     <td>VI</td>
     <td>Redes</td>
     <td>Neural Networks</td>
     <td>CNN, RNN, backpropagation</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Neural-Networks)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Neural-Networks">🔗 Repo</a></td>
   </tr>
 
   <!-- NIVEL VII -->
@@ -143,7 +143,7 @@ Cada sección combina teoría con implementación práctica en Python, permitien
     <td>LLM / Innovación</td>
     <td>Disruptive Innovation</td>
     <td>Innovación con IA, casos estratégicos</td>
-    <td>🔗 [Repo](https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Disruptive%20Innovation)</td>
+    <td><a href="https://github.com/fearfulScarab42/Machine-Learning/tree/55559a72aac6f8dbe3de3b4570ecaae1b6144e36/Disruptive%20Innovation">🔗 Repo</a></td>
   </tr>
 
 </table>
